@@ -1,3 +1,11 @@
+function addToBill(){
+
+
+	
+}
+
+
+
 $(document).foundation();
 
 
